@@ -64,6 +64,8 @@
 
 -[@danbzns](https://github.com/danbzns)
 
+-[@keymaster75](https://github.com/keymaster75)
+
 -[@jasonbharris](https://github.com/jasonbharris)
 
 -[@viwnj](https://github.com/viwnj)
